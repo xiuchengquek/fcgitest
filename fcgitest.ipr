@@ -150,26 +150,12 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Python 3.4.1 virtualenv at ~/sandbox" project-jdk-type="Python SDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings sdk-home="/usr/bin/python">
-        <envs>
-          <env key="PYTHONPATH" value="/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/:/usr/local/bin:/Users/quek/Library/Python/3.2/bin:/Users/quek/Library/Python/2.7:/Users/quek/Library/Python/2.7/lib/python/site-packages:/usr/local/Cellar/pygtk/2.24.0/lib/python2.7/site-packages" />
-        </envs>
-        <option name="mySdkHome" value="/usr/bin/python" />
-        <option name="myEnvs">
-          <map>
-            <entry key="PYTHONPATH" value="/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/:/usr/local/bin:/Users/quek/Library/Python/3.2/bin:/Users/quek/Library/Python/2.7:/Users/quek/Library/Python/2.7/lib/python/site-packages:/usr/local/Cellar/pygtk/2.24.0/lib/python2.7/site-packages" />
-          </map>
-        </option>
-      </console-settings>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="masterDetails">
     <states>
